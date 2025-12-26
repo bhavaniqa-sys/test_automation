@@ -3,7 +3,7 @@ from PageObject.base_page import BasePage
 
 
 class Checkout(BasePage):
-    click_chck_out= (By.XPATH,"//button[text()='Checkout']")
+
     first_name = (By.ID,"first-name")
     last_name = (By.CSS_SELECTOR,"#last-name")
     zip_code = (By.XPATH,"//input[@name='postalCode']")
@@ -11,8 +11,7 @@ class Checkout(BasePage):
     click_finsh_btn=(By.CSS_SELECTOR,"#finish")
     confirmation_msg = (By.XPATH,"//h2[text()='Thank you for your order!']")
 
-    def chck_out_button(self):
-        self.click(self.click_chck_out)
+
     def enter_first_name(self,fname):
         self.type(self.first_name,fname)
     def enter_last_name(self,lname):
