@@ -1,0 +1,15 @@
+# Core testing tools
+pytest==9.0.2
+selenium==4.39.0
+
+# Allure integration
+allure-pytest==2.15.2
+
+# Optional: for managing environment variables or configs
+python-dotenv==1.2.1
+
+# Optional: for data-driven testing
+openpyxl==3.1.5
+
+# Optional: for browser drivers (if using webdriver-manager)
+webdriver-manager==4.0.2
