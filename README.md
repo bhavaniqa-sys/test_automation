@@ -5,7 +5,7 @@ With 10+ years of experience in **Software Quality Assurance**, I specialize in 
 ---
 
 ## 🔑 Profile Highlights
-- **Manual Testing**: Developing and executing test plans, test cases, and defect management  
+- **Manual Testing**: Developing and executing test plans, test cases, requirement traceability tracking, triaged bugs.  
 - **Automation**: Designing, implementing, and maintaining automated test scripts using **Python** and **Selenium**  with **Pytest** framework.
 - **CI/CD Integration**: Supporting pipelines to ensure seamless delivery and continuous testing  
 - **Collaboration**: Proven ability to work across cross-functional teams to align QA with business goals  
