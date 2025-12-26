@@ -6,7 +6,7 @@ With 10+ years of experience in **Software Quality Assurance**, I specialize in 
 
 ## 🔑 Profile Highlights
 - **Manual Testing**: Developing and executing test plans, test cases, and defect management  
-- **Automation**: Designing, implementing, and maintaining automated test scripts using **Python** and **Selenium**  
+- **Automation**: Designing, implementing, and maintaining automated test scripts using **Python** and **Selenium**  with **Pytest** framework.
 - **CI/CD Integration**: Supporting pipelines to ensure seamless delivery and continuous testing  
 - **Collaboration**: Proven ability to work across cross-functional teams to align QA with business goals  
 
@@ -33,15 +33,8 @@ This mini project demonstrates my **automation skills** through a complete e‑c
 ## ⚙️ Tech Stack
 - **Languages**: Python  
 - **Tools**: Selenium, Jenkins, Allure Reporting  
-- **Practices**: Agile, CI/CD, Defect Management  
+- **Practices**: Agile, CI/CD, JIRA , TestTrail  
 
 ---
 
 💡 *This README is designed to help recruiters quickly understand my profile and see a practical demonstration of my automation expertise.*
-
-
-## 🛠️ Tech Badges
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
