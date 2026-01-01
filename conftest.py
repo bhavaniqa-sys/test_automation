@@ -19,6 +19,10 @@ def read_data_from_csv(file_path="testdata/testdata.csv"):
     with open(file_path,newline='') as datafile:
         reader = csv.DictReader(datafile)
         return [row for row in reader]
+@pytest.fixture(params=read_data_from_csv("testdata/testdata.csv"))
+def user_data(request):
+    return request.param
+
 
 #Reads and add products from json
 @pytest.fixture
@@ -28,7 +32,3 @@ def product_data():
         data = json.load(f)
     return data["products"]
 
-
-@pytest.fixture(params=read_data_from_csv("testdata/testdata.csv"))
-def user_data(request):
-    return request.param

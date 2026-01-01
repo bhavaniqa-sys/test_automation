@@ -1,5 +1,6 @@
 # Core testing tools
-pytest==9.0.2
+pip install -U pytest-playwright
+
 selenium==4.39.0
 
 # Allure integration
